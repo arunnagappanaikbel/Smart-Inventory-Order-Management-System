@@ -1,8 +1,9 @@
 ✅ Project Title: "**Smart Inventory & Order Management System**"
-🎯 Project Overview:
+🎯 **Project Overview:**
 A real-time inventory and order management system for small businesses that manages stock levels, processes orders, generates reports, and maintains logs. Supports multiple users (admin, staff), includes full file/data persistence, and is modular, secure, and configurable.
 
-✅ Core Features & Modules
+✅ **Core Features & Modules**
+
 📦 1. **Inventory Management**
 Add/update/delete/search products.
 Product info: name, category, price, quantity, SKU, expiry (optional).
@@ -14,18 +15,18 @@ Automatically update stock levels.
 Store orders in text or binary files.
 Calculate totals, tax, discounts, etc.
 
-👥 3.** User Management (OOP)**
+👥 3.**User Management (OOP)**
 Users: Admins and Staff.
 Role-based access (Admins can do all operations; Staff can only process orders).
 Store users and roles securely (e.g., JSON file).
 
-📂 4.** Reports Module**
+📂 4. **Reports Module**
 Low stock report.
 Top selling items.
 Daily/weekly order logs.
 Export to CSV.
 
-⚙️ 5.** Config Module**
+⚙️ 5.**Config Module**
 Store settings like tax rates, discount %, data file paths, etc. in a config file (config.json).
 
 ## 📂 Repository Structure
