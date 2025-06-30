@@ -1,0 +1,10 @@
+{
+  "tax_rate": 0.18,
+  "discount_rate": 0.05,
+  "data_paths": {
+    "products": "data/products.csv",
+    "orders": "data/orders.dat",
+    "users": "data/users.json"
+  },
+  "log_file": "logs/app.log"
+}
