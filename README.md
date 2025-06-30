@@ -28,7 +28,8 @@ Export to CSV.
 ⚙️ 5.** Config Module**
 Store settings like tax rates, discount %, data file paths, etc. in a config file (config.json).
 
-
+## 📂 Repository Structure
+```
 smart_inventory_system/
 │
 ├── config/
@@ -54,4 +55,7 @@ smart_inventory_system/
 │
 ├── main.py
 └── requirements.txt
+
+```
+---
 
