@@ -1,4 +1,5 @@
 ✅ Project Title: "**Smart Inventory & Order Management System**"
+
 🎯 **Project Overview:**
 A real-time inventory and order management system for small businesses that manages stock levels, processes orders, generates reports, and maintains logs. Supports multiple users (admin, staff), includes full file/data persistence, and is modular, secure, and configurable.
 
