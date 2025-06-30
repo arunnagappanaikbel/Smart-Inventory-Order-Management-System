@@ -1,0 +1,42 @@
+2025-05-23 18:37:07,865 - INFO - smart inventory management started
+2025-05-23 18:38:39,202 - INFO - smart inventory management started
+2025-05-23 18:41:11,577 - INFO - smart inventory management started
+2025-05-23 18:46:01,201 - INFO - sku SKU1 added.
+2025-05-23 18:48:59,788 - INFO - smart inventory management started
+2025-05-23 19:30:19,831 - INFO - smart inventory management started
+2025-05-23 19:36:00,675 - INFO - sku sku2 added.
+2025-05-23 20:16:17,060 - INFO - smart inventory management started
+2025-05-23 20:16:51,330 - INFO - smart inventory management started
+2025-05-23 20:17:31,150 - INFO - sku sku3 added.
+2025-05-23 20:19:11,787 - ERROR - unexpected error: module 'datetime' has no attribute 'now'
+Traceback (most recent call last):
+  File "d:\Data Engineering\Python Projects\Smart Inventory and Order Management System\main.py", line 22, in main
+    orders.place_order()
+  File "d:\Data Engineering\Python Projects\Smart Inventory and Order Management System\modules\orders.py", line 22, in place_order
+    'timestamp': datetime.now().isoformat()
+                 ^^^^^^^^^^^^
+AttributeError: module 'datetime' has no attribute 'now'
+2025-05-23 20:19:32,887 - INFO - smart inventory management started
+2025-05-23 20:20:08,022 - INFO - sku sku5 added.
+2025-05-23 20:20:18,882 - ERROR - unexpected error: module 'datetime' has no attribute 'now'
+Traceback (most recent call last):
+  File "d:\Data Engineering\Python Projects\Smart Inventory and Order Management System\main.py", line 22, in main
+    orders.place_order()
+  File "d:\Data Engineering\Python Projects\Smart Inventory and Order Management System\modules\orders.py", line 22, in place_order
+    'timestamp': datetime.now().isoformat()
+                 ^^^^^^^^^^^^
+AttributeError: module 'datetime' has no attribute 'now'
+2025-05-23 21:00:59,511 - INFO - smart inventory management started
+2025-05-23 21:03:14,486 - INFO - sku sku1 added.
+2025-05-23 21:12:56,999 - INFO - smart inventory management started
+2025-05-23 22:04:55,590 - INFO - sku sku1 added.
+2025-05-23 22:06:06,118 - INFO - Order is placed for sku sku1
+2025-05-23 22:19:37,805 - INFO - smart inventory management started
+2025-05-23 22:20:39,216 - INFO - smart inventory management started
+2025-05-23 22:20:52,584 - INFO - smart inventory management started
+2025-05-23 22:34:13,523 - INFO - User arun added with role admin.
+2025-05-23 22:44:29,287 - INFO - smart inventory management started
+2025-05-23 22:46:53,252 - INFO - smart inventory management started
+2025-05-23 22:52:11,521 - INFO - smart inventory management started
+2025-05-23 22:55:55,163 - INFO - smart inventory management started
+2025-05-23 23:02:42,294 - INFO - smart inventory management started
